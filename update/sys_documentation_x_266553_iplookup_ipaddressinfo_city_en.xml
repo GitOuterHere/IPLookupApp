@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="city" label="City" language="en" table="x_266553_iplookup_ipaddressinfo">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>city</element>
+            <help/>
+            <hint/>
+            <label>City</label>
+            <language>en</language>
+            <name>x_266553_iplookup_ipaddressinfo</name>
+            <plural>Cities</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2018-09-11 03:52:41</sys_created_on>
+            <sys_id>b1b83b10dbe0230083212a9a489619ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>City</sys_name>
+            <sys_package display_value="IPLookup" source="x_266553_iplookup">9a017b14dba0230083212a9a48961908</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPLookup">9a017b14dba0230083212a9a48961908</sys_scope>
+            <sys_update_name>sys_documentation_x_266553_iplookup_ipaddressinfo_city_en</sys_update_name>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2018-09-11 03:52:41</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
